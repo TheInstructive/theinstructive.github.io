@@ -1,3 +1,3 @@
 
-- [Privacy Policy](/privacy)
-- [Terms & Conditions](/terms)
+- [Privacy Policy](/stdpro/privacy)
+- [Terms & Conditions](/stdpro/terms)
